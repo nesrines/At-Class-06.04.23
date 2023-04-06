@@ -1,0 +1,15 @@
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\bin\Debug\net6.0\CustomSplit.exe
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\bin\Debug\net6.0\CustomSplit.deps.json
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\bin\Debug\net6.0\CustomSplit.runtimeconfig.json
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\bin\Debug\net6.0\CustomSplit.dll
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\bin\Debug\net6.0\CustomSplit.pdb
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.csproj.AssemblyReference.cache
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.AssemblyInfoInputs.cache
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.AssemblyInfo.cs
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.csproj.CoreCompileInputs.cache
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.dll
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\refint\CustomSplit.dll
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.pdb
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\CustomSplit.genruntimeconfig.cache
+C:\Users\nasrinfa\source\repos\CustomSplit\CustomSplit\obj\Debug\net6.0\ref\CustomSplit.dll
