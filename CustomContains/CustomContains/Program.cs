@@ -8,14 +8,12 @@ Console.WriteLine(CustomContains(String, Char));
 
 bool CustomContains(string String, char Char)
 {
-    bool Contains = false;
     for (int i = 0; i < String.Length; i++)
     {
         if (Char == String[i])
         {
-            Contains = true;
-            break;
+            return true;
         }
     }
-    return Contains;
+    return false;
 }
