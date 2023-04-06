@@ -1,0 +1,15 @@
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.csproj.AssemblyReference.cache
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.AssemblyInfoInputs.cache
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.AssemblyInfo.cs
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.csproj.CoreCompileInputs.cache
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\bin\Debug\net6.0\CustomContains.exe
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\bin\Debug\net6.0\CustomContains.deps.json
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\bin\Debug\net6.0\CustomContains.runtimeconfig.json
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\bin\Debug\net6.0\CustomContains.dll
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\bin\Debug\net6.0\CustomContains.pdb
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.dll
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\refint\CustomContains.dll
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.pdb
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\CustomContains.genruntimeconfig.cache
+C:\Users\nasrinfa\source\repos\CustomContains\CustomContains\obj\Debug\net6.0\ref\CustomContains.dll
